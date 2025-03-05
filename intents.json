@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["How far?", "Wetin dey?", "You dey?", "O boy how far?", "Hey"],
+      "responses": ["I dey, you nko?", "How far na?", "I dey, wetin dey sup?", "Omo, we move!", "Wetin dey play?"]
+    },
+    {
+      "tag": "casual",
+      "patterns": ["E choke?", "E sure me die!", "No gree for anybody", "Omo x100", "I don tire"],
+      "responses": ["E no choke like that o!", "E sure for you!", "No dull yourself!", "Omo, na so e be!", "We go dey alright las las."]
+    },
+    {
+      "tag": "wahala",
+      "patterns": ["Wahala be like bicycle", "No wahala", "Wetin be dis wahala?", "I no wan wahala"],
+      "responses": ["E no hard, e just dey turn turn.", "No wahala, we dey!", "Abeg no stress me jare.", "Omo, wahala be like bicycle indeed!"]
+    },
+    {
+      "tag": "exclamations",
+      "patterns": ["Soft work", "No be juju be that?", "God abeg", "Omo, e be things"],
+      "responses": ["Soft life or nothing!", "Omo! Na juju be that o!", "God go run am!", "E shock you?"]
+    },
+    {
+      "tag": "money",
+      "patterns": ["Omo I no get money", "Make money no go finish", "I wan japa", "Money no dey stay for my hand"],
+      "responses": ["Make we find hustle o!", "Omo, na to secure the bag!", "Guy, better go learn tech!", "E go be, just hold body."]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["I don waka", "We go see later", "Bye bye", "Later na"],
+      "responses": ["No wahala, we go see!", "We move!", "Make we catch later.", "Oya take care, no go dull."]
+    }
+  ]
+}
